@@ -1,6 +1,5 @@
 # OpenSrcBooks
 Desktop library application
-Author: Vlad Pelin
 
 -----
 
